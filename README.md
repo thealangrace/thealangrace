@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Alan Grace.
 - 👀 I’m interested in WebDesign.
-- 🌱 I’m currently learning HTML/CSS/JS/Python.
-- 💞️ I’m looking to collaborate on Oracle.
-- 📫 How to reach me: Thealan1063@gmail.com
+- 🌱 I’m currently learning HTML/CSS/JS/Python/Java.
+
+- 📫 Email: Thealan1063@gmail.com
 
 
 <!---
